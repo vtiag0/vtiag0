@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**vtiag0/vtiag0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wolverinevic/wolverinevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋 
+
+- 🌱 I’m currently learning (or relearning) git and python...
+
+<details>
+<summary>My top Languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| Java      |
+|     3| SQL       |
+
+</details>
+
+<!-- TO DO: add more details about me later -->
