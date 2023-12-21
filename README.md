@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 
 
-- 🌱 I’m currently learning (or relearning) git and python...
-
 <details>
 <summary>My top Languages</summary>
 
