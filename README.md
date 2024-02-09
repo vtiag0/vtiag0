@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtiag0&layout=pie)](https://github.com/vtiag0/github-readme-stats)
+-->
 
 <!-- TO DO: add more details about me later -->
